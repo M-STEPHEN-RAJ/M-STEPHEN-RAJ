@@ -1,13 +1,25 @@
-👋 Hi, I’m @M-STEPHEN-RAJ
+# Hi, I’m **@M-STEPHEN-RAJ**
 
-I’m a passionate pre-final year student currently exploring various aspects of software development. With a focus on front-end technologies, I enjoy working with React.js and Flutter Flow to create engaging, responsive applications.
+I’m a **passionate pre-final year student** currently exploring various aspects of software development. With a focus on **front-end technologies**, I enjoy working with **React.js** and **Flutter Flow** to create engaging, responsive applications.
 
-✨ Tech Proficiencies :
+## ✨ **Tech Proficiencies**
 
-🖥️ Programming Languages:  C, Python, Java, HTML, CSS, JavaScript
+### 🖥️ **Programming Languages:**
+- **C**
+- **Python**
+- **Java**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-⚛️ Frameworks & Tools: React.js, Flutter Flow
+### ⚛️ **Frameworks & Tools:**
+- **React.js**
+- **Flutter Flow**
 
-💾 Database Management: SQL for DBMS
+### 💾 **Database Management:**
+- **SQL**
+- **MongoDB**
 
-I’m open to collaboration opportunities in the future. 
+⭐ I’m open to **collaboration opportunities** in the future!
+
+🛠️ check out my projects!
