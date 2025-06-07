@@ -29,7 +29,7 @@ Check out my [Portfolio](https://stephen-raj-m.web.app)
 
 <div style="display: flex; justify: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=M-STEPHEN-RAJ&theme=dark&show_icons=true&hide=issues" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-STEPHEN-RAJ&theme=dark&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-STEPHEN-RAJ&theme=dark&layout=compact&hide=typescript" height="200"/>
 </div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/STEPHEN-RAJ-M?theme=dark&font=Inter&ext=heatmap)
