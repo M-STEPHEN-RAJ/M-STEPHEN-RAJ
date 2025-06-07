@@ -24,7 +24,7 @@ Check out my [Portfolio](https://stephen-raj-m.web.app)
   <img width="50" height="50" src="https://img.icons8.com/color/48/google-firebase-console.png" title="Firebase"/>
   <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman"/>
 </p>
-<br>
+
 <div style="display: flex; justify: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=M-STEPHEN-RAJ&theme=dark&show_icons=true&hide=issues" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-STEPHEN-RAJ&theme=dark&layout=compact&hide=typescript" height="200"/>
